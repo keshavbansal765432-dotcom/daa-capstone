@@ -1,0 +1,2 @@
+# The application uses only Python standard-library modules.
+# Optional: install matplotlib if you want to extend the performance charts.

@@ -1,0 +1,170 @@
+[
+  {
+    "parcel_id": "P001",
+    "recipient": "Rahul",
+    "destination": "L1",
+    "weight_kg": 8,
+    "priority_score": 9,
+    "deadline": "2026-11-18"
+  },
+  {
+    "parcel_id": "P002",
+    "recipient": "Aman",
+    "destination": "L2",
+    "weight_kg": 5,
+    "priority_score": 7,
+    "deadline": "2026-11-19"
+  },
+  {
+    "parcel_id": "P003",
+    "recipient": "Priya",
+    "destination": "L3",
+    "weight_kg": 12,
+    "priority_score": 10,
+    "deadline": "2026-11-18"
+  },
+  {
+    "parcel_id": "P004",
+    "recipient": "Neha",
+    "destination": "L4",
+    "weight_kg": 6,
+    "priority_score": 8,
+    "deadline": "2026-11-20"
+  },
+  {
+    "parcel_id": "P005",
+    "recipient": "Arjun",
+    "destination": "L1",
+    "weight_kg": 10,
+    "priority_score": 6,
+    "deadline": "2026-11-21"
+  },
+  {
+    "parcel_id": "P006",
+    "recipient": "Simran",
+    "destination": "L2",
+    "weight_kg": 7,
+    "priority_score": 9,
+    "deadline": "2026-11-18"
+  },
+  {
+    "parcel_id": "P007",
+    "recipient": "Karan",
+    "destination": "L3",
+    "weight_kg": 4,
+    "priority_score": 5,
+    "deadline": "2026-11-22"
+  },
+  {
+    "parcel_id": "P008",
+    "recipient": "Anjali",
+    "destination": "L4",
+    "weight_kg": 15,
+    "priority_score": 10,
+    "deadline": "2026-11-19"
+  },
+  {
+    "parcel_id": "P009",
+    "recipient": "Rohan",
+    "destination": "L1",
+    "weight_kg": 9,
+    "priority_score": 8,
+    "deadline": "2026-11-20"
+  },
+  {
+    "parcel_id": "P010",
+    "recipient": "Isha",
+    "destination": "L2",
+    "weight_kg": 11,
+    "priority_score": 7,
+    "deadline": "2026-11-21"
+  },
+  {
+    "parcel_id": "P011",
+    "recipient": "Dev",
+    "destination": "L3",
+    "weight_kg": 3,
+    "priority_score": 6,
+    "deadline": "2026-11-19"
+  },
+  {
+    "parcel_id": "P012",
+    "recipient": "Meera",
+    "destination": "L4",
+    "weight_kg": 8,
+    "priority_score": 9,
+    "deadline": "2026-11-18"
+  },
+  {
+    "parcel_id": "P013",
+    "recipient": "Vikram",
+    "destination": "L1",
+    "weight_kg": 14,
+    "priority_score": 10,
+    "deadline": "2026-11-22"
+  },
+  {
+    "parcel_id": "P014",
+    "recipient": "Pooja",
+    "destination": "L2",
+    "weight_kg": 6,
+    "priority_score": 8,
+    "deadline": "2026-11-20"
+  },
+  {
+    "parcel_id": "P015",
+    "recipient": "Aditya",
+    "destination": "L3",
+    "weight_kg": 10,
+    "priority_score": 7,
+    "deadline": "2026-11-21"
+  },
+  {
+    "parcel_id": "P016",
+    "recipient": "Sneha",
+    "destination": "L4",
+    "weight_kg": 5,
+    "priority_score": 9,
+    "deadline": "2026-11-19"
+  },
+  {
+    "parcel_id": "P017",
+    "recipient": "Mohit",
+    "destination": "L1",
+    "weight_kg": 7,
+    "priority_score": 5,
+    "deadline": "2026-11-22"
+  },
+  {
+    "parcel_id": "P018",
+    "recipient": "Riya",
+    "destination": "L2",
+    "weight_kg": 13,
+    "priority_score": 10,
+    "deadline": "2026-11-18"
+  },
+  {
+    "parcel_id": "P019",
+    "recipient": "Varun",
+    "destination": "L3",
+    "weight_kg": 9,
+    "priority_score": 8,
+    "deadline": "2026-11-20"
+  },
+  {
+    "parcel_id": "P020",
+    "recipient": "Tanya",
+    "destination": "L4",
+    "weight_kg": 4,
+    "priority_score": 6,
+    "deadline": "2026-11-21"
+  },
+  {
+    "parcel_id": "P021",
+    "recipient": "Raju",
+    "destination": "L4",
+    "weight_kg": 12,
+    "priority_score": 3,
+    "deadline": "2026-12-01"
+  }
+]
